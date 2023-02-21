@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohamed-khaled11/Questions-A-Answers/static/css/main.03389357.css",
+    "main.js": "/mohamed-khaled11/Questions-A-Answers/static/js/main.9a6f9919.js",
+    "index.html": "/mohamed-khaled11/Questions-A-Answers/index.html",
+    "main.03389357.css.map": "/mohamed-khaled11/Questions-A-Answers/static/css/main.03389357.css.map",
+    "main.9a6f9919.js.map": "/mohamed-khaled11/Questions-A-Answers/static/js/main.9a6f9919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03389357.css",
+    "static/js/main.9a6f9919.js"
+  ]
+}
